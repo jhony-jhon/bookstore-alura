@@ -59,4 +59,4 @@ git clone https://github.com/seu-usuario/alura_books-projeto_inicial.git
 cd alura_books-projeto_inicial
 ```
 
-4. Abra o arquivo index.html no navegador para visualizar o projeto.
+4. Abra o arquivo **index.html** no navegador para visualizar o projeto.
